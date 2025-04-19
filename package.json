@@ -1,0 +1,14 @@
+{
+  "name": "ig-cookie-generator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.8",
+    "tough-cookie": "^4.1.3",
+    "axios-cookiejar-support": "^5.0.1"
+  }
+}
